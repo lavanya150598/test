@@ -1,7 +1,7 @@
 env = "pr"
 
-project_id = "org-policy-pr-6818c0"
+project_id = "secctrl-test-dev-01"
 
 region = "northamerica-northeast1"
 
-organization_id = "637987714668"
+organization_id = "359229047143"

@@ -1,7 +1,7 @@
 terraform {
   required_version = "1.1.7"
   backend "gcs" {
-    bucket = "tf-state-org-policy-pr-6818c0"
-    prefix = "terraform/pr/custom-iam-contraint-policy"
+    bucket = "gcp-org-policies-tf-state"
+    prefix = "terraform/custom-iam-contraint-policy"
   }
 }

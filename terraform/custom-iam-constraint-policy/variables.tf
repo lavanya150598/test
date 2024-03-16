@@ -1,9 +1,9 @@
 variable "project_id" {
-  default = "org-policy-pr-6818c0"
+  default = "secctrl-test-dev-01"
 }
 
 variable "organization_id" {
-  default = "637987714668"
+  default = "359229047143"
 }
 
 variable "iam_deny_constraint" {
