@@ -10,7 +10,7 @@ variable "iam_allowedPolicyMemberDomains_scope" {
 
 variable "iam_allowedPolicyMemberDomains_ids" {
   type    = list(string)
-  default = ["637987714668"]
+  default = ["359229047143"]
 }
 
 variable "iam_allowedPolicyMemberDomains_allowed_values" {

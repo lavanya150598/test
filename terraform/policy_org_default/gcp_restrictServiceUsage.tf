@@ -10,7 +10,7 @@ variable "gcp_restrictServiceUsage_scope" {
 
 variable "gcp_restrictServiceUsage_ids" {
   type    = list(string)
-  default = ["637987714668"]
+  default = ["328456211046"]
 }
 
 variable "gcp_restrictServiceUsage_allowed_values" {
