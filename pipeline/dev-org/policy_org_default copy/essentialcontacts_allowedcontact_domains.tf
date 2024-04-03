@@ -1,18 +1,18 @@
-variable "iam_denyPolicy_iam_name" {
+variable "essentialcontacts_allowedContact_Domains" {
   type    = string
   default = "cloudresourcemanager.googleapis.com"
 }
 
-variable "iam_denyPolicy_iam_scope" {
+variable "essentialcontacts_allowedContact_Domains" {
   type    = string
   default = "folder"
 }
 
-variable "iam_denyPolicy_iam_ids" {
+variable "essentialcontacts_allowedContact_Domains" {
   type = list(string)
 }
 
-variable "iam_denyPolicy_iam_rules" {
+variable "essentialcontacts_allowedContact_Domains" {
   type = list(object({
     rule = object({
       description                 = string

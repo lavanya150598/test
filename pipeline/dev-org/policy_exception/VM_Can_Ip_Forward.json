@@ -1,0 +1,8 @@
+{
+    "iam_VM_Can_IP_Forward_exempt_folder_list": [
+        "954186428011"
+    ],
+    "iam_VM_Can_IP_Forward_exempt_project_list" : [
+        "cso-stepwell-winevent-pr-5800"
+    ]
+}

@@ -1,0 +1,10 @@
+variable "iam_restrict_shared_Vpc_Subnetworks" {
+}
+variable "iam_restrict_Shared_Vpc_subnetworks_exempt_folder_list" {
+  default = []
+}
+
+variable "iam_restrict_Shared_Vpc_Subnetworks_project_list" {
+  default = []
+}
+
